@@ -1,0 +1,4 @@
+insurance
+https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/baoxianzhidao/intro.ipynb
+chatbot
+https://github.com/codemayq/chinese_chatbot_corpus
